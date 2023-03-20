@@ -1,1 +1,2 @@
 third commit
+deneme.txt dosyası güncellendi.
